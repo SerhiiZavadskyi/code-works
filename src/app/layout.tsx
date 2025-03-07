@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 	title: "Serhii Zavadskyi",
-	description: "Serhii Zavadskyi - Frontend Developer",
+	description:
+		"Hi, I’m Serhii Zavadskyi, a passionate frontend developer specializing in HTML, CSS, JavaScript, and React. I build fast, user-friendly, and visually stunning websites that deliver seamless experiences across all devices.",
 	icons: [
 		{
 			url: "/favicon-32x32.png",
